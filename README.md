@@ -1,4 +1,4 @@
-# bi-lstm-crf
+# bi-lstm-crf-tensorflow
 
 The notebook `bi-lstm-crf-tensorflow.ipynb` contains an example of a Bidirectional LSTM + CRF (Conditional Random Fields) model in Tensorflow.
 
